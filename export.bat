@@ -1,4 +1,4 @@
 git init      
 git add .      
-git commit -m "eady to zip sources"
+git commit -am "initial commit"
 git archive HEAD --format=zip > archive.zip
